@@ -88,13 +88,17 @@
   font-weight: 600;
 }
 
-.img {
+.block-img {
   margin-bottom: 40px;
 }
 
+.img {
+  max-width: 800px;
+}
+
 .block-title {
+  font-family: MPLUSCodeLatin-SemiBold, sans-serif;
   font-size: 40px;
-  font-weight: 700;
   color: rgba(60, 175, 137, 0.438);
 
   margin-bottom: 15px;
